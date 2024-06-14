@@ -1,7 +1,7 @@
 {
   "name": "synonyms",
   "version": "0.1.0",
-  "main": "src/util/convert-thesaurus.js",
+  "main": "src/util/thesaurus.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build babel src -d dist",
